@@ -1,0 +1,35 @@
+TokenVault - Digital Licensing Clearance Token Bank (interactive)
+
+-----------------------------------------
+  1) Registration Registry
+  2) Revocation Trail
+  3) Transaction Loop
+  4) Key Lookup
+  5) Pool Sorter
+  6) Connection Map & Route Path
+  7) Space Allocator
+  8) Run auto-demo (all features)
+  0) Exit
+-----------------------------------------
+Select feature: 
+========== AUTO DEMO - all 8 features ==========
+Registry: alice balance 1000
+Revocation: Undid REVOKE of minter_Y (authority restored)
+Txn: settled tx#1 alice->bob
+KeyLookup: PK_ALICE valid? true
+PoolSorter: fastest poolB (340)
+RoutePath: cost 0.35 via 4 hops
+Allocator: 250B -> block 1
+
+-----------------------------------------
+  1) Registration Registry
+  2) Revocation Trail
+  3) Transaction Loop
+  4) Key Lookup
+  5) Pool Sorter
+  6) Connection Map & Route Path
+  7) Space Allocator
+  8) Run auto-demo (all features)
+  0) Exit
+-----------------------------------------
+Select feature: Goodbye.
